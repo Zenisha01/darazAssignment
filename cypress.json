@@ -1,0 +1,8 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema",
+    "baseUrl": "https://www.daraz.com.np/",
+    "env": {
+        "userName": "simran.fuse@gmail.com",
+        "password": "simran@123"
+    }
+}
